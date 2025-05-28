@@ -268,7 +268,7 @@ const styles = StyleSheet.create({
     padding: 12,
     borderRadius: 10,
     marginBottom: 8,
-    elevation: 1,
+    // elevation: 1,
   },
   subtaskText: {
     marginLeft: 15,

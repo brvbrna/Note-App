@@ -142,7 +142,6 @@ const styles = StyleSheet.create({
     flex: 1,
     borderRadius: 12,
     padding: 20,
-    elevation: 3,
   },
   taskItem: {
     flexDirection: 'row', // for task + delete side-by-side
