@@ -50,7 +50,6 @@ This will open a local development server. Use the QR code in the terminal or br
 
  [Open App on Expo](https://expo.dev/@yourusername/note-app) |
 
-> Replace `yourusername` with your actual Expo username if already deployed or shared.
 
 ## 🛠️ Tech Stack
 
