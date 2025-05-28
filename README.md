@@ -18,7 +18,7 @@ Follow these steps to clone and run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/note-app.git
+git [clone https://github.com/your-username/note-app.git](https://github.com/brvbrna/Note-App.git)
 cd note-app
 ```
 
