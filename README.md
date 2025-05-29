@@ -46,7 +46,7 @@ This will open a local development server. Use the QR code in the terminal or br
 
 ## 👥 Try downlaod and install the app:
 
- [Open App on Expo]([https://expo.dev/@yourusername/note-app](https://expo.dev/accounts/cxrlgacelo/projects/Noteapp/builds/48cd6a10-432b-469d-8cec-1914e9643f0c)) |
+ [Open App on Expo]https://expo.dev/accounts/cxrlgacelo/projects/Noteapp/builds/48cd6a10-432b-469d-8cec-1914e9643f0c |
 
 
 ## 🛠️ Tech Stack
